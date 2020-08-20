@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="078dd2df-9285-4a31-8c56-92388bbf066a" name="Default Changelist" comment="" />
+    <list default="true" id="1ea970d4-f1a4-48a2-9da3-d337efe00eb6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +14,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1gNEfrdR3VJew1SQjkYHmqisTAC" />
+  <component name="ProjectId" id="1gNFy4KWscHASPc4A4v5MHNhVRE" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollFromSource" value="true" />
@@ -31,7 +31,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="equality_printer" />
+      <module name="playing_cat" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Run" />
@@ -58,23 +58,5 @@
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1259" height="222" key="GridCell.Tab.0.bottom" timestamp="1597947364241">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1259" height="222" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1597947364241" />
-    <state width="1259" height="222" key="GridCell.Tab.0.center" timestamp="1597947364240">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1259" height="222" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1597947364240" />
-    <state width="1259" height="222" key="GridCell.Tab.0.left" timestamp="1597947364239">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1259" height="222" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1597947364239" />
-    <state width="1259" height="222" key="GridCell.Tab.0.right" timestamp="1597947364240">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1259" height="222" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1597947364240" />
   </component>
 </project>
